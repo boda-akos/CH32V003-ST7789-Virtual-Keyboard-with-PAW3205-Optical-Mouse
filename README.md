@@ -13,5 +13,6 @@ Features:
  - Serial output of selected string
  - Memory Usage: ~90% of 16KB Flash on CH32V003
 
-Cleaning and formatting the working code, thanks to DeepSeek. 
+Cleaning and formatting the working code, thanks to DeepSeek.
+
 To prepare the mouse, see https://github.com/boda-akos/Arduino-optical-mouse 
