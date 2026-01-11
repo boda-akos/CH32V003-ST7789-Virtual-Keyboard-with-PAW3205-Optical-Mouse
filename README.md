@@ -7,8 +7,9 @@ Description: Virtual keyboard interface using optical mouse for character
 Features:
 - Mouse-controlled cursor for character selection
  - Grid-based virtual keyboard layout (19x3 grid)
-   - Real-time string display and editing
+- Real-time string display and editing
  - Delete character functionality
  - Enter function (green text when arrow selected)
  - Serial output of selected string
  Memory Usage: ~90% of 16KB Flash on CH32V003
+Cleaning and formatting the working code, thanks to DeepSeek. 
