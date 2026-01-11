@@ -11,5 +11,6 @@ Features:
  - Delete character functionality
  - Enter function (green text when arrow selected)
  - Serial output of selected string
- Memory Usage: ~90% of 16KB Flash on CH32V003
+ - Memory Usage: ~90% of 16KB Flash on CH32V003
+
 Cleaning and formatting the working code, thanks to DeepSeek. 
